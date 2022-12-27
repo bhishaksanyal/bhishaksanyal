@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhishak Sanyal</h1>
+<h3 align="center">A passionate mobile application developer from India. I mostly work on iOS and React-native mobile applications.</h3>
 
-<!--
-**bhishaksanyal/bhishaksanyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhishaksanyal&label=Profile%20views&color=0e75b6&style=flat" alt="bhishaksanyal" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhishaksanyal" alt="bhishaksanyal" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/sanyalbishak93" target="blank"><img src="https://img.shields.io/twitter/follow/sanyalbishak93?logo=twitter&style=for-the-badge" alt="sanyalbishak93" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sanyalbishak93" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494481.png" alt="sanyalbishak93" height="50" width="50" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/bhishaksanyal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="https://www.linkedin.com/in/bhishaksanyal/" height="50" width="50" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/bhishaksanyal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="https://www.instagram.com/bhishaksanyal/" height="50" width="50" /></a>&nbsp;&nbsp;
+<a href="https://engineering.rently.com/react-native/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" alt="https://engineering.rently.com/react-native/" height="50" width="50" /></a>&nbsp;&nbsp;
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhishaksanyal&show_icons=true&locale=en&layout=compact" alt="bhishaksanyal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhishaksanyal&show_icons=true&locale=en" alt="bhishaksanyal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhishaksanyal&" alt="bhishaksanyal" /></p>

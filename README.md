@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhishaksanyal&theme=tokyonight&title=MultiLanguage,Commit,Repositories,PullRequest,Issues,Stars" alt="bhishaksanyal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sanyalbishak93" target="blank"><img src="https://img.shields.io/twitter/follow/sanyalbishak93?logo=twitter&style=for-the-badge" alt="sanyalbishak93" /></a> </p>![apple-original](https://user-images.githubusercontent.com/26772694/209843278-bdab3e83-9bec-493c-95d4-5f3f99532d4d.svg)
-
+<p align="left"> <a href="https://twitter.com/sanyalbishak93" target="blank"><img src="https://img.shields.io/twitter/follow/sanyalbishak93?logo=twitter&style=for-the-badge" alt="sanyalbishak93" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

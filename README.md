@@ -32,9 +32,9 @@
 
 <h3 align="left">IDE:</h3>
 <p align="left"> 
-  <a href="https://user-images.githubusercontent.com/26772694/209842351-c14d23e3-19b1-4251-a420-56fdeee57d85.svg" target="blank"><img align="center"     src="https://user-images.githubusercontent.com/26772694/209842351-c14d23e3-19b1-4251-a420-56fdeee57d85.svg" alt="android studio" height="50"               width="50" /></a>&nbsp;&nbsp;
-  <a href="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" target="#"><img align="center" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="XCode" height="50" width="50" /></a>&nbsp;&nbsp;
-  <a href="https://img.icons8.com/color/512/visual-studio-code-2019.png" target="#"><img align="center" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" alt="VSCode" height="50" width="50" /></a>&nbsp;&nbsp;
+  <a href="https://user-images.githubusercontent.com/26772694/209842351-c14d23e3-19b1-4251-a420-56fdeee57d85.svg" target="blank"><img align="center"     src="https://user-images.githubusercontent.com/26772694/209842351-c14d23e3-19b1-4251-a420-56fdeee57d85.svg" alt="android studio" height="60"               width="60" /></a>&nbsp;&nbsp;
+  <a href="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" target="#"><img align="center" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="XCode" height="60" width="60" /></a>&nbsp;&nbsp;
+  <a href="https://img.icons8.com/color/512/visual-studio-code-2019.png" target="#"><img align="center" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" alt="VSCode" height="60" width="60" /></a>&nbsp;&nbsp;
 </p>
 
 

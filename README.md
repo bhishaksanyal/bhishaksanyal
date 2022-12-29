@@ -27,6 +27,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/209968659-155744d8-6e75-459e-b967-394a96302725.svg" alt="gitlab" width="50" height="50"/> </a> &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/209969616-cd2367ba-7869-4b32-ba57-56c057e5aefe.svg" alt="bitbucket" width="60" height="60"/> </a> &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/209973638-f69c358a-8a67-4203-aa50-3f866d64cbd1.png" alt="bitbucket" width="50" height="50"/> </a> &nbsp;&nbsp;
 </p>
 
 <h3 align="left">IDE:</h3>
@@ -36,7 +37,6 @@
   <a href="https://img.icons8.com/color/512/visual-studio-code-2019.png" target="#"><img align="center" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" alt="VSCode" height="50" width="50" /></a>&nbsp;&nbsp;
   <a href="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" target="#"><img align="center" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" alt="VSCode" height="50" width="50" /></a>&nbsp;&nbsp;
 </p>
-
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 

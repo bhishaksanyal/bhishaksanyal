@@ -43,6 +43,10 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> &nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>&nbsp;&nbsp; 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/210081088-53f79c00-56f3-430e-a96e-8daccf3fe3f9.png" alt="airbrake" width="50" height="50"/> </a> &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/210081316-074067b2-f9c7-4622-b85d-56ede4e0815e.png" alt="sentry" width="50" height="50"/> </a> &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/210081431-9711f747-1383-4ee3-93c6-d076b0a97a97.png" alt="jira" width="50" height="50"/> </a> &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/210081556-ce820bfc-265d-4fd6-9cb6-675893378765.png" alt="confluence" width="50" height="50"/> </a> &nbsp;&nbsp;
 </p>
 
 <h3 align="left">Stats:</h3>

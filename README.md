@@ -20,6 +20,8 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/s/13/swift.svg" alt="swift" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a> &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://openclipart.org/download/272343/1486640684.svg" alt="js" width="50" height="50"/> </a> &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="50" height="50"/> </a> &nbsp;&nbsp;
 </p>
 
 <h3 align="left">CI/CD and Version Control:</h3>
@@ -47,6 +49,7 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/210081316-074067b2-f9c7-4622-b85d-56ede4e0815e.png" alt="sentry" width="50" height="50"/> </a> &nbsp;&nbsp;
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/210081431-9711f747-1383-4ee3-93c6-d076b0a97a97.png" alt="jira" width="50" height="50"/> </a> &nbsp;&nbsp;
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/210081556-ce820bfc-265d-4fd6-9cb6-675893378765.png" alt="confluence" width="50" height="50"/> </a> &nbsp;&nbsp;
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26772694/210231919-5f9b10b5-8a5a-4c44-b034-8b06bf45df5f.png" alt="slack" width="50" height="50"/> </a> &nbsp;&nbsp;
 </p>
 
 <h3 align="left">Stats:</h3>
